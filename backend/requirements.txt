@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-jose
+passlib
+python-multipart
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+pydantic-settings
